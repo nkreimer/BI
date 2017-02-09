@@ -1,3 +1,6 @@
+# Table of Contents
+1. [BI Application Types](#BI-Application-Types)
+
 ## BI Application Types
 
 * Direct Access Query
